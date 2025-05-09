@@ -1,0 +1,36 @@
+Log File Analysis Report
+=======================
+Total number of requests: 3
+Number of GET requests: 2
+Number of POST requests: 1
+
+Number of unique IPs: 2
+Details of GET and POST requests per IP:
+IP: 127.0.0.1, GET: 1, POST: 1
+IP: 192.168.1.1, GET: 1, POST: 0
+
+Number of failed requests (4xx or 5xx): 2
+Percentage of failed requests: 66.00%
+
+Most active IP: 127.0.0.1 (Number of requests: 2)
+
+Number of days: 2
+Average requests per day: 1.50
+
+Days with the highest number of failed requests:
+
+Number of requests per hour:
+      1 13
+      1 14
+      1 15
+
+Status codes breakdown:
+      1 500
+      1 404
+      1 200
+
+Most active IP using GET: 192.168.1.1 (Count: 1)
+Most active IP using POST: 127.0.0.1 (Count: 1)
+
+Failed requests by hour:
+
